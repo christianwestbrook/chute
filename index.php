@@ -14,7 +14,6 @@ if( strlen( $uri ) == 1 ) {
 
 // Who's calling please?
 $agent = $_SERVER['HTTP_USER_AGENT'];
-//file_put_contents('/tmp/chute-agents.txt', $agent . "\n", FILE_APPEND);
 
 // Is it "Twitterbot/1.0."
 if(  stripos( $agent, "Twitterbot" ) !== false ) {
