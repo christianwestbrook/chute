@@ -1,7 +1,7 @@
 # chute
 Bitchute mini proxy to work around twitter censorship.
 
-== Setup ==
+## Setup
 
 You will need to have mod_rewrite enabled to catch all URIs:
 
@@ -15,7 +15,7 @@ You will need to have mod_rewrite enabled to catch all URIs:
  RewriteRule .* index.php [L]
 </nowiki>
 
-== Use ==
+## Use
 
 Use this site to get around Twitter's censorship of Bitchute videos.
 
@@ -24,10 +24,10 @@ https://www.bitchute.com/video/pQ84E954pkgj/
 Instead share
 http://chute.props.org/pQ84E954pkgj
 
-== License ==
+## License
 
 This script is released into public domain.
 
-== Thanks ==
+## Thanks
 
 Thanks to all subscribers and supporters of the Ice Age Farmer broadcast (http://iceagefarmer.com), to all truth-telling researchers and journalists, and all patriots.  
